@@ -1,7 +1,6 @@
 ## Olá! Eu sou a Thalita Augustineli 👩‍💻
 
 🔎 Atuo como **Analista de Qualidade de Software**, garantindo que os sistemas entregues estejam sempre no ponto!  
-🌱 No momento estou aprendendo **JavaScript** e **Cypress** para aprimorar meus testes automatizados para aplicações web  
 👯 Procuro colaborar em **projetos voltados para qualidade, automação de testes e boas práticas de desenvolvimento**  
 🤔 Estou em busca de ajuda com **integração de testes E2E em pipelines de CI/CD e boas práticas de escrita de testes**  
 ⚡ Curiosidade: **sou movida a café ☕, apaixonada por qualidade e fascinada por descobrir _aquela_ falhinha antes do deploy final**.
