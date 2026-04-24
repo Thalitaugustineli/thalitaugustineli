@@ -15,7 +15,7 @@
 ![Top linguagens](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=thalitaugustineli&layout=compact&langs_count=8&theme=dracula)
 
  
-<div style="display: inline_block">
+<div>
   <img align="center" alt="Thali-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Thali-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Thali-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
